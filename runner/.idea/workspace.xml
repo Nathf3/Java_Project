@@ -5,59 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5f48b32-521c-492f-900f-38f0d17f9edc" name="Changes" comment="ajout librairie javaFx">
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.base/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.base/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.base/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.controls/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.controls/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.controls/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.fxml/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.fxml/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.fxml/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.graphics/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.graphics/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.graphics/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.graphics/jpeg_fx.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.graphics/mesa3d.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.media/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.media/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.media/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.media/directshow.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.media/glib.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.media/gstreamer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.media/libffi.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.swing/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.swing/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.swing/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.web/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.web/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.web/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.web/icu_web.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.web/libxml2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.web/libxslt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.web/webkit.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/javafx.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libavplugin-54.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libavplugin-56.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libavplugin-57.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libavplugin-ffmpeg-56.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libavplugin-ffmpeg-57.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libavplugin-ffmpeg-58.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libavplugin-ffmpeg-59.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libdecora_sse.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libfxplugins.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libglass.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libglassgtk3.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libgstreamer-lite.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libjavafx_font.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libjavafx_font_freetype.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libjavafx_font_pango.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libjavafx_iio.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libjfxmedia.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libjfxwebkit.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libprism_common.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libprism_es2.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libprism_sw.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,12 +15,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Nathf3"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nathf3&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -100,7 +48,7 @@
     "WebServerToolWindowFactoryState": "false",
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/ghostrider/IdeaProjects/javafx-sdk-21.0.1/lib",
+    "last_opened_file_path": "/home/ghostrider/IdeaProjects/Java_Project/runner",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -144,7 +92,8 @@
       <workItem from="1699809995419" duration="841000" />
       <workItem from="1700417579071" duration="100000" />
       <workItem from="1700636781840" duration="359000" />
-      <workItem from="1700637623073" duration="2310000" />
+      <workItem from="1700637623073" duration="2842000" />
+      <workItem from="1700640552514" duration="118000" />
     </task>
     <task id="LOCAL-00001" summary="ça marche">
       <option name="closed" value="true" />
