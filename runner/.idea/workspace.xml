@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5f48b32-521c-492f-900f-38f0d17f9edc" name="Changes" comment="ajout librairie javaFx">
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.base/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.base/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.base/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.controls/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.controls/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.controls/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.fxml/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.fxml/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.fxml/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.graphics/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.graphics/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.graphics/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.graphics/jpeg_fx.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.graphics/mesa3d.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.media/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.media/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.media/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.media/directshow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.media/glib.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.media/gstreamer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.media/libffi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.swing/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.swing/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.swing/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.web/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.web/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.web/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.web/icu_web.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.web/libxml2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.web/libxslt.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/legal/javafx.web/webkit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/javafx.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libavplugin-54.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libavplugin-56.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libavplugin-57.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libavplugin-ffmpeg-56.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libavplugin-ffmpeg-57.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libavplugin-ffmpeg-58.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libavplugin-ffmpeg-59.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libdecora_sse.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libfxplugins.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libglass.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libglassgtk3.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libgstreamer-lite.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libjavafx_font.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libjavafx_font_freetype.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libjavafx_font_pango.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libjavafx_iio.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libjfxmedia.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libjfxwebkit.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libprism_common.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libprism_es2.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javafx-sdk-21.0.1/lib/libprism_sw.so" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Nathf3"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f8fec646-1eab-441f-961c-6362afb6617c" />
+        <option name="url" value="https://github.com/Nathf3/Java_Project.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2Y5FVvd3ycpVNooWHIg5saaRJUX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/ghostrider/IdeaProjects/javafx-sdk-21.0.1/lib",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "/home/ghostrider/IdeaProjects/runner/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "Console",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="runner" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;$PROJECT_DIR$/../javafx-sdk-21.0.1/lib&quot; --add-modules javafx.controls" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5f48b32-521c-492f-900f-38f0d17f9edc" name="Changes" comment="" />
+      <created>1699807561724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699807561724</updated>
+      <workItem from="1699807562843" duration="1192000" />
+      <workItem from="1699808913574" duration="24000" />
+      <workItem from="1699808972713" duration="182000" />
+      <workItem from="1699809197428" duration="590000" />
+      <workItem from="1699809824605" duration="124000" />
+      <workItem from="1699809995419" duration="841000" />
+      <workItem from="1700417579071" duration="100000" />
+      <workItem from="1700636781840" duration="359000" />
+      <workItem from="1700637623073" duration="2310000" />
+    </task>
+    <task id="LOCAL-00001" summary="ça marche">
+      <option name="closed" value="true" />
+      <created>1699809123545</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699809123545</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ajout librairie javaFx">
+      <option name="closed" value="true" />
+      <created>1700638933964</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700638933964</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ça marche" />
+    <MESSAGE value="ajout javafx qui marche" />
+    <MESSAGE value="ajout librairie javaFx" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout librairie javaFx" />
+  </component>
+</project>
