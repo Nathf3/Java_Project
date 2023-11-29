@@ -1,9 +1,30 @@
 import javafx.scene.Parent;
 import javafx.scene.Scene;
+import javafx.scene.Group;
 
-public class GameScene extends Scene {
-    public GameScene(Parent parent) {
-        super(parent);
+
+class GameScene extends Scene {
+    private Camera camera;
+    private StaticThing backgroundLeft;
+    private StaticThing backgroundRight;
+    private int numberOfLives;
+    public GameScene(Group root,Camera camera) {
+        super(root);
+        this.camera = camera;
+        backgroundLeft = new StaticThing(600,400,"img/desert.png");
+        backgroundRight = new StaticThing(600,400,"img/desert.png");
+        render();
+        root.getChildren().add(backgroundLeft.getImageView());
+        root.getChildren().add(backgroundRight.getImageView());
     }
-    Camera Camera1=new Camera(1,2);
+    private void render() {
+        double cameraX = camera.getX();
+        double cameraY = camera.getY();
+        // Update positions based on the camera
+        backgroundLeft.getImageView().setTranslateX(-cameraX%600);
+        backgroundLeft.getImageView().setTranslateY(-cameraY%400);
+
+        backgroundRight.getImageView().setTranslateX(-cameraX%600+600);
+        backgroundRight.getImageView().setTranslateY(-cameraY%400);
+    }
 }
