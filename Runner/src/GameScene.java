@@ -7,7 +7,7 @@ class GameScene extends Scene {
     private Camera camera;
     private StaticThing backgroundLeft;
     private StaticThing backgroundRight;
-    private int numberOfLives;
+    private int numberOfLives=3;
     public GameScene(Group root,Camera camera) {
         super(root);
         this.camera = camera;
@@ -17,6 +17,13 @@ class GameScene extends Scene {
         root.getChildren().add(backgroundLeft.getImageView());
         root.getChildren().add(backgroundRight.getImageView());
     }
+    private void CountHealth(){
+
+
+
+
+    }
+
     private void render() {
         double cameraX = camera.getX();
         double cameraY = camera.getY();
