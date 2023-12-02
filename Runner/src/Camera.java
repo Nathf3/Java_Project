@@ -16,4 +16,6 @@ public class Camera {
         return this.x+","+this.y;
     }
 
+    public void update(long time) {
+    }
 }

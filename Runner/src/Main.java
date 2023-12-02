@@ -5,15 +5,16 @@ import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
 
 public class Main extends Application {
-    @Override
+    private final int WINDOW_LENGTH=600;
+    private final int WINDOW_WIDTH=400;
     public void start(Stage primaryStage) throws Exception{
         primaryStage.setTitle("Runner");
         Group root = new Group();
-      //  Pane pane = new Pane(root);
+        Pane pane = new Pane(root);
         //Scene theScene = new Scene(pane, 600, 400,true);
        // primaryStage.setScene(theScene);
         //primaryStage.show();
-        GameScene gameScene = new GameScene(root, new Camera(0, 0    ));
+        GameScene gameScene = new GameScene(pane,WINDOW_LENGTH,WINDOW_WIDTH);
 
         primaryStage.setScene(gameScene);
         primaryStage.show();
