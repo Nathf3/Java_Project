@@ -34,8 +34,9 @@ public class AnimatedThing {
     public void setX(double x) {this.x = x;}
     public void setY(double y) {this.y = y;}
     public void setSprite(ImageView sprite) {this.sprite = sprite;}
-    public void setX_view(double x_offset) {this.x_view = x_view;}
-    public void setY_yview(double y_offset) {this.y_view = y_view;}
+    public void setX_view(double x_view) {this.x_view = x_view;sprite.setX(x_view);
+         }
+    public void setY_view(double y_view) {this.y_view = y_view;}
     public void setIndex(int index) {this.index = index;}
     public void setFramePeriod(int framePeriod) {this.framePeriod = framePeriod;}
     public void setMax_index(int max_index) {this.max_index = max_index;}

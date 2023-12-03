@@ -7,6 +7,7 @@ public class Camera {
     protected double vy;
     protected double ax;
     protected double ay;
+    protected static double sample_speed=0.016;
     public Camera(double x, double y) {
         this.x = x;
         this.y = y;
@@ -14,10 +15,10 @@ public class Camera {
     public void update(long time, double xHero){
         ax = k_m*(xHero - x) - f_m*vx;
         ay = 0;
-        vx += ax*0.016;
-        vy += ay*0.016;
-        x += vx*0.016;
-        y += vy*0.016;
+        vx += ax*sample_speed;
+        vy += ay*sample_speed;
+        x += vx*sample_speed;
+        y += vy*sample_speed;
     }
     //Getter et Setter -----
     public double getX(){return x;}

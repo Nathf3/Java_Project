@@ -25,8 +25,8 @@ public class Hero extends AnimatedThing{
             count_timer=time;
         }
     }
-    public double getxHero(){return x;}
-    public double getyHero(){return x;}
+    public double get_xHero(){return x;}
+    public double get_yHero(){return x;}
 
 
 
