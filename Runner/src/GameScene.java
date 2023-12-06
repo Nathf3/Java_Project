@@ -37,7 +37,7 @@ class GameScene extends Scene {
         lifecount.setFitHeight(30);
         lifecount.setPreserveRatio(true);
         lifecount.setX(200);
-        lifecount.setViewport(new Rectangle2D(0,60+(5-numberOfLives)*65,900,60));
+        lifecount.setViewport(new Rectangle2D(0,60+(5-numberOfLives)*65,200,60));
         AnimationTimer timer = new AnimationTimer()
         {
             public void handle(long time){
@@ -60,14 +60,16 @@ class GameScene extends Scene {
         if(time-100000000>countlifeintervalle){
             countlifeintervalle=time;
             numberOfLives=(numberOfLives+1)%6;
-            System.out.println(numberOfLives);
+
 
             lifecount.setViewport(new Rectangle2D(0,60+(5-numberOfLives)*65,900,60));
         }
         hero.setX(i);
         backgroundLeft.getImageView().setViewport(new Rectangle2D(camera.getX() % BACKGROUND_WIDTH, camera.getY() + BACKGROUND_Y_OFFSET, length, width));
         backgroundRight.getImageView().setViewport(new Rectangle2D(camera.getX() % BACKGROUND_WIDTH - BACKGROUND_WIDTH, camera.getY() + BACKGROUND_Y_OFFSET, length, width));
-
+        this.setOnMouseClicked( (event)->{
+            hero.jump();
+        });
     }
 
 
